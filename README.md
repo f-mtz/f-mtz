@@ -107,27 +107,6 @@ Reach me out 👇🏼
   <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p
   
-  # TECNOLOGIES'S ICONS  FUTURE
-  
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/r.svg">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg">
- -->
  
- <!--
-
-
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> <span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> <span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> <span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg"> </span>
-
-
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> </span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> </span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </span>
-<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </span>
-<span> <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"> </span>
-
-
 -->
 
