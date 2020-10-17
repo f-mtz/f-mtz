@@ -18,7 +18,7 @@ My name is Felipe and ...:
 ### Back-End:
 
 
-<p align="center">
+<p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
@@ -29,7 +29,7 @@ My name is Felipe and ...:
 
 ### Front-End:
 
-<p align="center">
+<p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
@@ -44,7 +44,7 @@ My name is Felipe and ...:
 
 ### Tools:
 
-<p align="center">
+<p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> 
@@ -56,7 +56,7 @@ My name is Felipe and ...:
 
 ### Services:
 
-<p align="center">
+<p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg"> 
 
