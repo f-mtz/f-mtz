@@ -17,31 +17,52 @@ My name is Felipe and ...:
 
 ### Back-End:
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">
 
+<p align="center">
 
-### Front End:
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg"> 
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+</p>
+
+### Front-End:
+
+<p align="center">
+
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true">
+
+</p>
+
+
 
 
 ### Tools:
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">
-<img src="https://drive.google.com/drive/folders/1eHl8eb0WqlMsCG03UZl-9SBeMrLF8t15?usp=sharing">
+<p align="center">
 
-### Servies:
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">  
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg">
+
+</p>
+
+
+### Services:
+
+<p align="center">
+
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg"> 
+
+</p>
+
+
 
 # Somes Statistcs Programming:
 
@@ -62,7 +83,6 @@ Reach me out 👇🏼
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
 
-XXX =======================  XXX
 
 
 <!--
@@ -92,4 +112,22 @@ XXX =======================  XXX
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/r.svg">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg">
  -->
+ 
+ <!--
+
+
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> <span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> <span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> <span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg"> </span>
+
+
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> </span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> </span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </span>
+<span> <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </span>
+<span> <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"> </span>
+
+
+-->
 
