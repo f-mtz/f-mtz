@@ -70,7 +70,7 @@ My name is Felipe and ...:
 
 ![f-mtz's github stats](https://github-readme-stats.vercel.app/api?username=f-mtz&show_icons=true&theme=tokyonight)
 
-# +1
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-mtz)](https://github.com/f-mtz/github-readme-stats)
 
 
