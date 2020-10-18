@@ -68,9 +68,11 @@ My name is Felipe and ...:
 
 <p align="center"> P.S. I do know that HTML is not a programming language! ✌️ </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Wakatime?username=f-mtz&layout=compact)](https://github.com/f-mtz/github-readme-stats)
+![f-mtz's github stats](https://github-readme-stats.vercel.app/api?username=f-mtz&show_icons=true&theme=tokyonight)
 
-![f-mtz's github stats](https://github-readme-stats.vercel.app/api?username=f-mtz&show_icons=true&theme=tokyonight&include_all_commits=true)
+# +1
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-mtz)](https://github.com/f-mtz/github-readme-stats)
+
 
 <p align="left">
 Reach me out 👇🏼
