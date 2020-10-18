@@ -70,7 +70,6 @@ My name is Felipe and ...:
 
 ![f-mtz's github stats](https://github-readme-stats.vercel.app/api?username=f-mtz&show_icons=true&theme=tokyonight)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-mtz)](https://github.com/f-mtz/github-readme-stats)
 
 
@@ -80,6 +79,9 @@ Reach me out 👇🏼
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ribeiro-1a9b471a0/)](https://www.linkedin.com/in/felipe-ribeiro-1a9b471a0/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/f-mtz)](https://github.com/f-mtz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mtz.dev.si@gmail.com)](mailto:mtz.dev.si@gmail.com/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=""&text=Olá!)](https://api.whatsapp.com/send?phone=""&text=Olá!)
 
 
 <p align="center">
@@ -96,7 +98,7 @@ Reach me out 👇🏼
 
 
   [![Github Stats By Anurag](https://github.com/f-mtz.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/f-mtz/github-readme)
-  
+ [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wesleyosantos91)](https://t.me/wesleyosantos91)
   
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
