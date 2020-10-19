@@ -64,13 +64,13 @@ My name is Felipe and ...:
 
 
 
-# Somes Statistcs Programming:
+# Some Statistcs Programming:
 
 <p align="center"> P.S. I do know that HTML is not a programming language! ✌️ </p>
 
 ![f-mtz's github stats](https://github-readme-stats.vercel.app/api?username=f-mtz&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-mtz)](https://github.com/f-mtz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-mtz&layout=compact)](https://github.com/f-mtz/github-readme-stats)
 
 
 <p align="left">
