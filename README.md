@@ -8,10 +8,10 @@
 > Hellooo! 👋 Welcome to my profile
 My name is Felipe and ...:
 
-> - 😄 I really like to learn.
-> - 📊 I'm looking for my first opportunity of web development.
-> - 📚 Currently studying Java and SpringBoot, Vue.JS, BootStrap...
-> - 🌍 And I love discovering new technologies.
+ > - 😄 I really like to learn. 
+ > - 📊 I'm looking for my first opportunity of web development. 
+ > - 📚 Currently studying Java and SpringBoot, Vue.JS, BootStrap... 
+ > - 🌍 And I love discovering new technologies. 
 
 ## Some technologies I use in projects and I'm Learning:
 
