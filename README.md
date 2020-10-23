@@ -20,7 +20,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png" height="40px"> 
 
 </p>
 
@@ -28,10 +28,10 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vuejs.png"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vuejs.png"  height="40px"> 
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"  height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"  height="40px">
 
 </p>
 
@@ -39,8 +39,8 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/springboot.png"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/springboot.png" height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png" height="40px">
 
 </p>
 
@@ -49,7 +49,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/gmail.png">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/gmail.png" height="40px">
 
 </p>
 
