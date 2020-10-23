@@ -20,8 +20,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
- 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png"> 
+<img src=""> 
 
 </p>
 
@@ -29,26 +28,19 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vuejs.png"> 
 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true">
 
-<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> -->
 </p>
-
-
-
 
 ### Tools:
 
 <p align="left">
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
-<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> -->
-
-
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/springboot.png"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png">
 
 </p>
 
@@ -57,9 +49,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg">
-<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg">  -->
-
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/gmail.png">
 
 </p>
 
