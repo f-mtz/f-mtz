@@ -20,10 +20,11 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> 
+
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg"> 
+<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> -->
 
 </p>
 
@@ -32,11 +33,12 @@ My name is Felipe and ...:
 <p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> 
+
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true">
 
+<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> -->
 </p>
 
 
@@ -47,7 +49,7 @@ My name is Felipe and ...:
 <p align="left">
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> 
+<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> -->
 
 
 
