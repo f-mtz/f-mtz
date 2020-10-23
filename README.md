@@ -48,7 +48,7 @@ My name is Felipe and ...:
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_pycharm.svg"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">  
+
 
 
 </p>
