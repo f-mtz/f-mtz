@@ -28,8 +28,8 @@ My name is Felipe and ...:
 
 <p align="left">
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/vuejs.jpg"  height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"  height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"  height="40px">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/js.jpg"  height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/bootstrap.png"  height="40px">
 </p>
 
 ### Tools:
@@ -44,7 +44,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/gmail.png" height="40px">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/gmail.png" height="40px">
 
 </p>
 
