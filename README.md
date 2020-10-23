@@ -20,7 +20,7 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src=""> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png"> 
 
 </p>
 
