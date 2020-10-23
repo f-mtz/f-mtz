@@ -12,11 +12,7 @@ My name is Felipe and ...:
  > - 📊 I'm looking for my first opportunity of web development. 
  > - 📚 Currently studying Java and SpringBoot, Vue.JS, BootStrap... 
  > - 🌍 And I love discovering new technologies. 
- 
- # Test Zone
- 
- [![f-mtz](url)](url)
- [![f-mtz](url)](url)
+
 
 ## Some technologies and Patterns I use in projects and I'm Learning:
 
@@ -24,15 +20,11 @@ My name is Felipe and ...:
 
 
 <p align="left">
-<img src="https://icon-icons.com/pt/icone/java-bot%C3%A3o/151928#128"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/java.jpg" height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/jwt.png" height="40px"> 
 </p>
 
 ### Front-End:
-
-[![f-mtz](url)](url)
-[![f-mtz](url)](url)
-[![f-mtz](url)](url)
 
 <p align="left">
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/vuejs.jpg"  height="40px"> 
@@ -42,9 +34,6 @@ My name is Felipe and ...:
 
 ### Tools:
 
-[![f-mtz](url)](url)
-[![f-mtz](url)](url)
-
 <p align="left">
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/springboot.png" height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png" height="40px">
@@ -52,8 +41,6 @@ My name is Felipe and ...:
 
 
 ### Services:
-
-[![f-mtz](url)](url)
 
 <p align="left">
 
