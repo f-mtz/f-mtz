@@ -25,7 +25,7 @@ My name is Felipe and ...:
 ### Front-End:
 
 <p align="left">
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vuejs.png"  height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/vuejs.jpg"  height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"  height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"  height="40px">
 </p>
