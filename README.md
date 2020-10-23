@@ -20,11 +20,8 @@ My name is Felipe and ...:
 
 <p align="left">
 
-
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> 
-<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg"> -->
+ 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png"> 
 
 </p>
 
@@ -34,7 +31,7 @@ My name is Felipe and ...:
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue.js" style="vertical-align:top; margin:4px"> 
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true">
 
 <!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px"> 
@@ -60,7 +57,9 @@ My name is Felipe and ...:
 
 <p align="left">
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg"> 
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg">
+<!-- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg">  -->
+
 
 </p>
 
