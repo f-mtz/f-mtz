@@ -35,7 +35,7 @@ My name is Felipe and ...:
 ### Tools:
 
 <p align="left">
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/springboot.png" height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/springboot.png" height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png" height="40px">
 </p>
 
