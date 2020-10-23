@@ -13,26 +13,21 @@ My name is Felipe and ...:
  > - 📚 Currently studying Java and SpringBoot, Vue.JS, BootStrap... 
  > - 🌍 And I love discovering new technologies. 
 
-## Some technologies I use in projects and I'm Learning:
+## Some technologies and Patterns I use in projects and I'm Learning:
 
 ### Back-End:
 
-
 <p align="left">
-
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/red-java(final).png" height="40px"> 
-
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/jwt.png" height="40px"> 
 </p>
 
 ### Front-End:
 
 <p align="left">
-
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vuejs.png"  height="40px"> 
-
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/js.png" alt="js"  height="40px"> 
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/bootstrap.png?raw=true"  height="40px">
-
 </p>
 
 ### Tools:
