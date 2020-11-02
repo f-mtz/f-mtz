@@ -18,36 +18,28 @@ My name is Felipe and ...:
 
 ### Back-End:
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="left">
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/java.jpg" height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/jwt.png" height="40px"> 
-</p>
 
 ### Front-End:
 
-<p align="left">
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/vuejs.jpg"  height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/js.jpg"  height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/bootstrap.png"  height="40px">
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+
 
 ### Tools:
 
-<p align="left">
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/springboot.png" height="40px"> 
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/vscode.png" height="40px">
-</p>
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 
 ### Services:
 
-<p align="left">
-
-<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/gmail.png" height="40px">
-
-</p>
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.rs.dev@gmail.com)](mailto:felipe.rs.dev@gmail.com/)
 
 
 # Some Statistcs Programming:
@@ -98,6 +90,30 @@ Reach me out 👇🏼
   <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p
   
- 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Sencha](https://img.shields.io/badge/-Sencha-86BC40?style=flat-square&logo=sencha&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+OLD VERSION
+<p align="left">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/java.jpg" height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/jwt.png" height="40px"> 
+</p>
+
+<p align="left">
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/vuejs.jpg"  height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/js.jpg"  height="40px"> 
+<img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/bootstrap.png"  height="40px">
+</p>
 -->
 
