@@ -40,6 +40,8 @@ Reach me out 👇🏼
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=""&text=Olá!)](https://api.whatsapp.com/send?phone=""&text=Olá!)
 
 
+
+
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
@@ -112,7 +114,7 @@ Reach me out 👇🏼
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![discord](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=discord)
 
 
 OLD VERSION
