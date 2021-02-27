@@ -16,9 +16,14 @@ My name is Felipe and ...:
 
 ## Some technologies and Patterns I use in projects and I'm Learning:
 
-BackEnd   | FrontEnd | Tools | Services
---------- | ---------|-------|---------
- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![Vue-JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React) |![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)|[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.rs.dev@gmail.com)](mailto:felipe.rs.dev@gmail.com/)
+BackEnd + Frameworks   | FrontEnd + Frameworks|Bancos de Dados |Ferramentas de Testes |Tools | Services
+--------- | ---------|----------------|----------------------|-------|---------
+ ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)![Sonar Lint](https://img.shields.io/badge/-Sonar_Lint-red?style=flat-square&logo=sonarlint)![ES Lint](https://img.shields.io/badge/-ES_Lint-darkblue?style=flat-square&logo=eslint)![Maven](https://img.shields.io/badge/-Maven-purple?style=flat-square&logo=apachemaven)![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square&logo=hibernate)|![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)![Vue-JS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=React)| ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![Oracle](https://img.shields.io/badge/-Oracle_DB-red?style=flat-square&logo=oracle)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)|![JUnit](https://img.shields.io/badge/-JUnit-red?style=flat-square&logo=junit) ![Cucumber](https://img.shields.io/badge/-Cucumber-white?style=flat-square&logo=cucumber) xxx|![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)![PostMan](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![Git Lab](https://img.shields.io/badge/-Git_Lab-orange?style=flat-square&logo=gitlab)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)|[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.rs.dev@gmail.com)](mailto:felipe.rs.dev@gmail.com/)
+
+
+
+
+
 
 # Some Statistcs Programming:
 
@@ -115,6 +120,46 @@ Reach me out 👇🏼
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![discord](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=discord)
+
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=teamviewer)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-black?style=flat-square&logo=microsoftteams)
+![Any Desk](https://img.shields.io/badge/-AnyDesk-orange?style=flat-square&logo=anydesk)
+
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
+
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-white?style=flat-square&logo=sublimetext)
+
+![Tomcat](https://img.shields.io/badge/-Tomcat-white?style=flat-square&logo=apachetomcat)
+![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat-square&logo=selenium)
+
+![Kalilinux](https://img.shields.io/badge/-Kalilinux-white?style=flat-square&logo=kalilinux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-white?style=flat-square&logo=ubuntu)
+![Manjaro](https://img.shields.io/badge/-Manjaro-white?style=flat-square&logo=manjaro)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+
+![MS Word](https://img.shields.io/badge/-Microsoft_Word-white?style=flat-square&logo=microsoftword)
+![Power Point](https://img.shields.io/badge/-Power_Point-white?style=flat-square&logo=microsoftpowerpoint)
+![Excel](https://img.shields.io/badge/-Excel-white?style=flat-square&logo=microsoftexcel)
+
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=angularjs)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=angular)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=vuetify)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=selenium)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=babel)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=jquery)
+
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=css3)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=html5)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=react)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=vue-dot-js)
+![Team Viewer](https://img.shields.io/badge/-TeamViewer-white?style=flat-square&logo=spring)
+
+
 
 
 OLD VERSION
