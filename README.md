@@ -2,7 +2,7 @@
 
 # 👨‍💻Felipe R da Silva
 
-:octocat: Procuro a cada dia me tornar uma versão melhor de mim.
+:octocat: I try every day to be a better version of myself
 
 
 > Hellooo! 👋 Welcome to my profile
