@@ -2,8 +2,6 @@
 
 # 👨‍💻Felipe R da Silva
 
-![](https://img.shields.io/badge/-Twilio-white?style=flat-square&logo=twilio)![](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase)![](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
-
 :octocat: Procuro hoje ser uma versão de mim melhor do que ontem
 
 
