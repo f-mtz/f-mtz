@@ -22,8 +22,9 @@ BackEnd + Frameworks   | FrontEnd + Frameworks|Bancos de Dados |Mobile |Ferramen
 
 [comment]: <> (## Summary of Data Science Skills:)
 
-
-
+Linguagens   |Bancos de Dados  | Q&A Tools | Tools  | Services 
+--------- |----------|-------|-------|---------
+![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white) ![R Studio](https://img.shields.io/badge/-R-007396?style=flat-square&logo=r&logoColor=r) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Oracle](https://img.shields.io/badge/-Oracle_DB-red?style=flat-square&logo=oracle) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |  | ![Colab](https://img.shields.io/badge/-Colab-orange?style=flat-square&logo=colab) ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git Lab](https://img.shields.io/badge/-Git_Lab-orange?style=flat-square&logo=gitlab) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  |  |
 
 # Statistcs Programming:
 
