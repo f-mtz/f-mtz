@@ -11,7 +11,8 @@ My name is Felipe and ...:
  > - 😄 I really like to learn. 
  > - 📊 I'm working with Machine Learning, MLOps, Python, R...
  > - 📚 Currently studying Data Science, Machine Learning. 
- > - 🌍 And I love discovering new technologies. 
+ > - 🌍 And I love discovering new technologies.
+ >  - Portifólio: https://f-mtz.github.io/portifolio_projetos/
 
 ## Summary of Data Science Skills:
 
@@ -182,4 +183,5 @@ OLD VERSION
 <img src="https://github.com/f-mtz/portifolio_resources/blob/master/icons/original-size/bootstrap.png"  height="40px">
 </p>
 -->
+
 
